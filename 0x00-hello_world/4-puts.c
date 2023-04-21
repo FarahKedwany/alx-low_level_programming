@@ -1,11 +1,14 @@
-#include<stdio.h>
-/**Description*/
-int main(void)
+#include <stdio.h>
+
 /**
- * main-description "Programming is like building
- * Return:Always0.
+ * main - Prints "Programming is like building a multilingual
+ *                puzzle
+ *
+ * Return: Always 0.
  */
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+
 	return (0);
 }
