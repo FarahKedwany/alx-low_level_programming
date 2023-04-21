@@ -1,7 +1,8 @@
 #include<stdio.h>
+/**Description*/
 int main(void)
 /**
- * main-prints "Programming is like building
+ * main-description "Programming is like building
  * Return:Always 0.
  */
 {
