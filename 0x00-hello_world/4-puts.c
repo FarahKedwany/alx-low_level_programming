@@ -3,7 +3,7 @@
 int main(void)
 /**
  * main-description "Programming is like building
- * Return:Always 0.
+ * Return:Always0.
  */
 {
 	puts("\"Programming is like building a multilingual puzzle");
