@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/** main - Description
+/**
+ * main - Description
  *
- * return = Always 0.
+ * Return: Always 0.
  */
 int main(void)
 {
