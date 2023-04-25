@@ -3,7 +3,9 @@
 #include <ctype.h>
 
 /**
- * int _islower(int c) - checks for lowercase character.
+ * _islower - checks for lowercase character.
+ *
+ * Return: 0 if uppercase, 1 if lowercase.
  *
 */
 
