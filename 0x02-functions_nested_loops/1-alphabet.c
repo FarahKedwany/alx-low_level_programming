@@ -1,7 +1,8 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * main - description.
+ * print_alphabet - description.
  *
  * Return: Alwways 0.
 */
