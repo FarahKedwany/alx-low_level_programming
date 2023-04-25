@@ -5,6 +5,8 @@
 /**
  * _islower - checks for lowercase character.
  *
+ * @c: int to be declared.
+ *
  * Return: 0 if uppercase, 1 if lowercase.
  *
 */
