@@ -9,7 +9,7 @@
 */
 
 int main(void)
-
+{
 
 /**
  * print_alphabet - description.
@@ -24,3 +24,5 @@ void print_alphabet(void)
 		putchar(letter);
 	putchar('\n');
 }
+   return (0);
+   }
