@@ -4,7 +4,6 @@
 /**
  * print_alphabet - description.
  *
- * Return: Alwways 0.
 */
 
 void print_alphabet(void)
