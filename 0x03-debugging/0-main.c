@@ -8,9 +8,9 @@
 
 int main(void)
 {
-	int n;
+	int i;
 
-	n = -50;
+	i = 50;
 	positive_or_negative(n);
 
 	return (0);
