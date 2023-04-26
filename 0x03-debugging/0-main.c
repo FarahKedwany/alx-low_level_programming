@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - tests function
@@ -11,7 +12,7 @@ int main(void)
                 int i;
 
                 i = 50;
-                positive_or_negative(i);
+                positive_or_negative (i);
 
                 return (0);
 }

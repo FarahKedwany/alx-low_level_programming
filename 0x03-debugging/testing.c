@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - Description
+ * positive_or_negative - Description
  * Return: Always 0.
 */
 
-int main(void)
+void positive_or_negative(int i)
 {
 	int i;
 
