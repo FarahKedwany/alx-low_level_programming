@@ -11,7 +11,7 @@ int main(void)
 	int i;
 
 	i = 50;
-	positive_or_negative(n);
+	positive_or_negative(i);
 
 	return (0);
 
