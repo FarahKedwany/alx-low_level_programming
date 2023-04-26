@@ -7,10 +7,10 @@
  *
  * @r: to be declared
  *
- * Return: int.
+ * Return: r.
 */
 
-int _abs(int)
+int _abs(int r)
 {
 	int r;
 
