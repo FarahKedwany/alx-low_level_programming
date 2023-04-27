@@ -9,12 +9,13 @@
 
 void print_numbers(void)
 {
-        int num;
+		int x;
 
-        for (num = '0'; num <= '9'; num++)
-        {
-                _putchar (num);
-        }
+		for (x= '0'; x <= '9'; x++)
+		{
+				_putchar (x);
+		}
 
-        _putchar ('\n');
+		_putchar ('\n');
+
 }
