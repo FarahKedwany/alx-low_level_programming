@@ -1,15 +1,9 @@
 #include "main.h"
 
 /**
-<<<<<<< HEAD
- * print_square - prints a square, followed by a new line.
- * @size: to be declared.
- */
-=======
  * print_square - prints a square, followed by a new line;
  * @size: size of the square
 */
->>>>>>> f1dd624f5a72ef3204a5147c536f797bb7e6d1bd
 
 void print_square(int size)
 {
