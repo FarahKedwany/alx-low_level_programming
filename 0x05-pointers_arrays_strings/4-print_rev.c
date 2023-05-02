@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_rev - prints a string, in reverse, 
+ * print_rev - prints a string, in reverse,
  * followed by a new line.
  * @s: string to be reversed.
  *
@@ -10,12 +10,12 @@
 
 void print_rev(char *s)
 {
-	unsigned char len;
+	char len;
 	char *p;
 
 	while (s[len] != '\0')
 	{
-		len ++;
+		len++;
 	}
 
 	p = s + len - 1;
