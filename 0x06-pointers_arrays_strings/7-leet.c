@@ -12,10 +12,10 @@ char *leet(char *str)
 {
 	int i;
 	int j;
-	char leet[] = {'4','3','0','7','1','\0'};
-	char noleet[] = {'a', 'e','o','t','l','\0'};
+	char leet[] = {'4', '3', '0', '7', '1', '\0'};
+	char noleet[] = {'a', 'e', 'o', 't', 'l', '\0'};
 	char nooleet[] = {'A', 'E', 'O', 'T', 'L', '\0'};
-	
+
 	for (i = 0; str[i] != '\0'; i++)
 	{
 		for (j = 0; j < 5; j++)
