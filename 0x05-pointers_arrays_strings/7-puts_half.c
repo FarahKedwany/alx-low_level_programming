@@ -22,4 +22,9 @@ void puts_half(char *str)
 	{
 		_putchar(str[i]);
 	}
+<<<<<<< HEAD
 	_putchar('\n'); 
+=======
+	_putchar('\n');
+}
+>>>>>>> 34f5250f112b379662570cf21dbe5931418783f0
