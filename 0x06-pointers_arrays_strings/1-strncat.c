@@ -8,7 +8,7 @@
  * @src: source string.
  * @n: n bytes.
  *
- * Return: *dest
+ * Return: dest
 */
 
 char *_strncat(char *dest, char *src, int n)
