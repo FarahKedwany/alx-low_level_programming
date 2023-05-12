@@ -15,6 +15,7 @@
 int main(int argc, char **argv)
 {
 	int i, j, length;
+
 	int sum = 0;
 
 	if (argc - 1 < 1)
@@ -26,6 +27,7 @@ int main(int argc, char **argv)
 		for (i = 1; i < argc; i++)
 		{
 			char *ptr = argv[i];
+
 			length = strlen(ptr);
 
 			for (j = 0; j < length; j++)
@@ -42,5 +44,6 @@ int main(int argc, char **argv)
 
 	printf("%d\n", sum);
 	}
+
 	return (0);
 }
