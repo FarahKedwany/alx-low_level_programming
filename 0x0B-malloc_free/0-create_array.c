@@ -3,9 +3,10 @@
 #include <stdlib.h>
 
 /**
- * create_array - creates an array of chars, and initializes it with a specific char.
- * size: size of char.
- * c: Character
+ * create_array - creates an array of chars, 
+ * and initializes it with a specific char.
+ * @size: size of char.
+ * @c: Character
  *
  * Return: NULL if size = 0 or pointer to array.
  */
